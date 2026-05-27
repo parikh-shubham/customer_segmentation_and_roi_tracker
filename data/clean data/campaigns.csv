@@ -1,0 +1,9 @@
+campaign_id,campaign_name,channel,start_date,end_date,budget_inr,target_segment
+1,Summer Sale 2022,Email,2022-06-01,2022-06-30,200000,All
+2,Festive Offer 2022,Email,2022-10-01,2022-11-15,150000,All
+3,New Year 2023,Email,2023-01-01,2023-01-31,50000,Churned
+4,Loyalty Reward Q2 2023,Paid Social,2023-04-01,2023-04-30,50000,At-Risk
+5,Back to school 2023,Paid Social,2023-07-01,2023-07-31,50000,Loyal
+6,Festive Offer 2023,Email,2023-10-01,2023-11-30,100000,New
+7,Re-engagement Jan 2024,Email,2024-01-15,2024-02-15,200000,Churned
+8,Spring Sale 2024,SMS,2024-03-01,2024-03-31,50000,At-Risk
